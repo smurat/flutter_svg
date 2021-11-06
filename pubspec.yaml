@@ -10,7 +10,7 @@ dependencies:
   path_drawing: ^0.5.1
   vector_math: ^2.1.0
 
-  xml: ^5.0.0
+  xml: ^4.2.0
 
 dev_dependencies:
   flutter_test:
